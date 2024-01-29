@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage
+  SYSTEM 'http://cobertura.sourceforge.net/xml/coverage-03.dtd'>
+<coverage branch-rate="0.0" line-rate="0.0" timestamp="1483970855" version="gcovr 3.3">
+<sources>
+<source>build</source>
+</sources>
+<packages>
+<package branch-rate="0.0" complexity="0.0" line-rate="0.0" name="">
+<classes>
+<class branch-rate="0.0" complexity="0.0" filename="add.c" line-rate="0.0" name="add_c">
+<methods/>
+<lines>
+<line branch="false" hits="0" number="4"/>
+<line branch="false" hits="0" number="7"/>
+<line branch="false" hits="0" number="10"/>
+<line branch="false" hits="0" number="12"/>
+</lines>
+</class>
+</classes>
+</package>
+</packages>
+</coverage>
+

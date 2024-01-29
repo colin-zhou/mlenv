@@ -1,0 +1,28 @@
+{
+    "tasks": [
+        {
+            "group_name": "gf bank shop",
+            "ip_list": [
+                "0.0.0.0"
+            ],
+            "port_range": "0-100",
+            "white_list": [
+                "22",
+                "25"
+            ]
+        },
+        {
+            "group_name": "gf bank store",
+            "ip_list": [
+                "0.0.0.0",
+                "0.0.0.0"
+            ],
+            "port_range": "1-100",
+            "white_list": [
+                "22",
+                "24",
+                "100"
+            ]
+        }
+    ]
+}
